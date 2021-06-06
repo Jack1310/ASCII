@@ -1,0 +1,7 @@
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\bin\Debug\ASCII.exe.config
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\bin\Debug\ASCII.exe
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\bin\Debug\ASCII.pdb
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\obj\Debug\ASCII.csprojAssemblyReference.cache
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\obj\Debug\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\obj\Debug\ASCII.exe
+C:\Users\Jack Cruz\Source\Repos\ASCII\ASCII\obj\Debug\ASCII.pdb
